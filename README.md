@@ -10,11 +10,10 @@
 
 - 🎓 **B.Tech Cyber Security** — Amrita Sai Institute of Science & Technology *(Affiliated to JNTU Kakinada)*
 - 📅 Currently in **4th Year, 1st Semester**
-- 📍 **vijayawada, India**
+- 📍 **Vijayawada, Andhra Pradesh, India**
 - 🔍 Actively looking for **Cyber Security Internships**
-- 🌱 Currently learning **Penetration Testing & Network Security**
-- ⚡ Fun fact: I think like a hacker to **defend like a pro!**
-
+- 🌱 Currently learning **Python, Networking, Linux, and Cyber Security Fundamentals**
+- 🚀 Building projects and improving technical skills every day
 ---
 
 ## 🛡️ Skills & Tools
