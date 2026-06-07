@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kumar</h1>
 <h3 align="center">🔐 Cyber Security Student | Aspiring SOC Analyst | Open to Internships</h3>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=B.Tech+Cyber+Security+%7C+4th+Year;Python+%7C+Linux+%7C+Networking;Open+to+Cyber+Security+Internships;Aspiring+SOC+Analyst" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=B.Tech+Cyber+Security+%7C+4th+Year;Aspiring+SOC+Analyst;Open+to+Cyber+Security+Internships;Kali+Linux+%7C+Python+%7C+Networking+%7C+Git" alt="Typing SVG" />
 ---
 
 ## 🧑‍💻 About Me
